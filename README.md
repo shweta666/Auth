@@ -1,1 +1,1 @@
-# remcProject
+REMC Project
